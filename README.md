@@ -8,4 +8,4 @@
 * [ResNet 만들기]()  
 
 ## P02_Augmentation 만들어보기 (21.04.09)  
-* [Augmentation 만들기(https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD2/CV_P2_Augmentation_at_ResNet_Project.ipynb)
+* [Augmentation 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD2/CV_P2_Augmentation_at_ResNet_Project.ipynb)
