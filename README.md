@@ -9,3 +9,6 @@
 
 ## P02_Augmentation 만들어보기 (21.04.09)  
 * [Augmentation 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD2/CV_P2_Augmentation_at_ResNet_Project.ipynb)
+
+## P03_Object Detection 시스템 만들기(21.04.13)
+* [Object Detection 시스템 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD3/CV_P3_GOSTOP!%20-%20Object%20Detection%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_Project.ipynb)
