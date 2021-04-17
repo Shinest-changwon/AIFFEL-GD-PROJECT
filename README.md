@@ -5,7 +5,7 @@
 ***
 
 ## P01_ResNet 모델 쌓아보기 (21.04.06)  
-* [ResNet 만들기]()  
+* [ResNet 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD1/CV_P1_AblationStudy_Project.ipynb)  
 
 ## P02_Augmentation 만들어보기 (21.04.09)  
 * [Augmentation 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD2/CV_P2_Augmentation_at_ResNet_Project.ipynb)
