@@ -14,7 +14,10 @@
 * [Object Detection 시스템 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD3/CV_P3_GOSTOP!%20-%20Object%20Detection%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_Project.ipynb)
 
 ## P04_도로 영역 Segmentation(U-Net++구현)(21.04.15)
-* [도로 영역 Segmentation(U-Net++)]
+* [도로 영역 Segmentation(U-Net++)](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD4/CV_P4_%EB%8F%84%EB%A1%9C_%EC%98%81%EC%97%AD%EC%9D%84_%EC%B0%BE%EC%9E%90_%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98_%EB%AA%A8%EB%8D%B8_%EB%A7%8C%EB%93%A4%EA%B8%B0_Project.ipynb)
 
 ## P05 CAM, Grad-CAM 만들기(21.04.20)
 * [CAM, Grad-CAM 만들기](https://github.com/Shinest-changwon/AIFFEL-GD-PROJECT/blob/master/GD5/CV_P5_%EB%82%98%EB%A5%BC%EC%B0%BE%EC%95%84%EC%A4%98_ClassActivationMap%EB%A7%8C%EB%93%A4%EA%B8%B0_Project.ipynb)  
+
+## P06 OCR 만들어보기(21.04.23)
+* [OCR 만들어보기]()
